@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Azamat</h1>
-<h3 align="center">Frontend developer from Uzbekistan</h3>
+<h3 align="center">Software engineer from Uzbekistan</h3>
 
 - 🌱 I’m currently learning **Next.js, MongoDB, Express.js, Node.js**
 
