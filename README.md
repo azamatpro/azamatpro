@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Azamat</h1>
 <h3 align="center">Software Engineer from Uzbekistan</h3>
 
-- 🌱 I’m currently learning **Next.js, MongoDB, Express.js, Node.js**
+- 🌱 I’m currently learning **Threejs**
 
-- 💬 Ask me about **JavaScript, React, Redux**
+- 💬 Ask me about **JavaScript, TypeScript, Java, React, Next.js, Redux, Node.js, Spring Boot**
 
 - 📫 How to reach me **azamat.rasulov00@gmail.com**
 
